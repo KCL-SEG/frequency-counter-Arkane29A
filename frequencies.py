@@ -20,4 +20,3 @@ def frequencies(items):
 
 
 
-frequencies([50,50, 60, 70, 100, 100, 100, 30])
